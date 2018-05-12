@@ -1,0 +1,33 @@
+_repo: Under-Nordenvindens-Sv-be_34747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rasmussen, Knud
+    alias: Rasmussen, Knud Johan Victor
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '33593'
+    url: http://www.gutenberg.org/2009/agents/33593
+description: ''
+gutenberg_issued: '2010-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34747'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rasmussen, Knud, 1879-1933'
+- !lcsh 'Litteraere expeditionen til Vest-Grønland, 1902-1904'
+- !lcsh 'Polar regions -- Folklore'
+- !lcsh 'Greenland -- Discovery and exploration -- Danish'
+- !lcsh 'Polar regions'
+- !lcc 'G'
+- !lcsh 'Eskimos -- Greenland'
+tableOfContents: Vestgronlaendere -- Ostgronlaendere.
+title: Under Nordenvindens Svøbe
+url: http://www.gutenberg.org/ebooks/34747
